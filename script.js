@@ -1,4 +1,4 @@
-//Free API Key from OpenWeatherMap
+//Free API Key from the OpenWeatherMap
 const apiKey = "ebace1439498e09fc63a9ede6ee70139";
 const apiBaseURL = "https://api.openweathermap.org/data/2.5/weather";
 // Function to fetch weather data
